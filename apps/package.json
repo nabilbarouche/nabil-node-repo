@@ -1,0 +1,13 @@
+{
+  "name": "nabil-node-repo",
+  "version": "1.0.0",
+  "description": "nabil test reop",
+  "main": "index.js",
+  "repository": "tkt",
+  "author": "nabilbarouche",
+  "license": "n/a",
+  "private": false,
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
