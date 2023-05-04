@@ -185,7 +185,7 @@
     "react-treeview": "^0.4.7",
     "react-virtualized": "^9.22.3",
     "recompose": "^0.30.0",
-    "redux": "^3.7.2",
+    "redux": "^4.2.1",
     "redux-logger": "~2.6.1",
     "redux-saga": "^0.16.0",
     "redux-thunk": "^2.3.0",
